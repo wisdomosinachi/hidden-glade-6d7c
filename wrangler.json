@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "hidden-glade-6d7c",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d3bddc8d-3161-4b4e-976d-144af9071059",
+      "database_name": "hidden-glade-6d7c-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
